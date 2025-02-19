@@ -77,6 +77,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### 🔥 Let's Connect
-💬 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)  
-📧 Email: your.email@example.com  
-🌍 Portfolio: [Your Website](https://yourwebsite.com)  
+💬 LinkedIn: www.linkedin.com/in/rajeswararao-jangiti 
+📧 Email: rajeswararrao688@gmail.com  
+
